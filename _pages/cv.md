@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Kaiserslautern-Landau, 2026 (expected)
+* Ph.D in Computer Science, University of Kaiserslautern-Landau, 2026
 * M.S. in Computer Science, University of Kaiserslautern-Landau, 2020
 * B.S. in Computer Science, University of Kaiserslautern-Landau, 2018
 
